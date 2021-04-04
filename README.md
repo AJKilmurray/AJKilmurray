@@ -1,4 +1,4 @@
-- Hi there, the name's AJ.
+# Hi there, the name's AJ.
 - I'm an aspiring web developer and graphic designer.
 - I'm currently embarking on the journey of becoming a full-stack web developer.
 - I plan to create unique and interesting concepts for the greater good of the people.
