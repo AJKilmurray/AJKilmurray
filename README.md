@@ -7,8 +7,8 @@
   <li>⌨️ Currently working on the design and development of my personal site.</li>
 </ul>
 <br>
-<h3 align=center>Here are some of my stats!</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
+<h3 align="center">Here are some of my stats!</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
 
 
 
