@@ -3,7 +3,7 @@
 <ul>
   <li>💻 My name is AJ Kilmurray, and I'm an aspiring Full-Stack Web Developer.</li>
   <li>📝 I'm studying web-development full-time, with one of my primary resources being <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</li>
-  <li>⌨️ Currently working on the design and development of my personal site.</li>
+  <li>⌨️ Currently working on the design and development of my <a href="ajkilmurray.xyz" target="_blank">personal site.</a></li>
 </ul>
 <h3 align="center">Here are some of my stats!</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
