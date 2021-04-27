@@ -7,5 +7,5 @@
   <li>⌨️ Currently working on the design and development of my personal site.</li>
 </ul>
 <br>
-<h3>Here are some of my stats</h3>
+<h3>Here are some of my stats!</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
