@@ -10,7 +10,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
 <br>
 <h3 align="center">Technologies I use<h3>
-<img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
+<img src="https://img.icons8.com/color/50/4a90e2/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/50/4a90e2/css3.png"/>
 
 
