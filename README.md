@@ -2,7 +2,7 @@
 <h1>Greetings! 👋</h1>
 <ul>
   <li>💻 My name is <strong>AJ Kilmurray</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong>.</li>
-  <li>📝 I'm studying web-development full-time, with one of my primary resources being <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</li>
+  <li>📝 I'm studying web-development full-time(self-taught), with one of my primary resources being <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</li>
   <li>⌨️ Currently working on the design and development of my <a href="https://ajkilmurray.xyz" target="_blank">personal site</a>. <strong>[Under Construction]</strong></li>
   <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a>.</li>
 </ul>
