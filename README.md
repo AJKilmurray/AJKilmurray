@@ -6,9 +6,9 @@
   <li>⌨️ Currently working on the design and development of my <a href="https://ajkilmurray.xyz" target="_blank">personal site</a>. <strong>[Under Construction]</strong></li>
   <li>✉️ If you're looking to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a></li>
 </ul>
-<h3 align="center">Here are some of my GitHub stats!</h3>
+<h3 align="center">My GitHub Stats!</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
-<h3 align="center">Technologies I use:<h3>
+<h3 align="center">Technologies I Use:<h3>
 
   <img src="https://img.icons8.com/color/50/4a90e2/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/50/4a90e2/css3.png"/>
