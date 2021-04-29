@@ -4,7 +4,7 @@
   <li>💻 My name is <strong>AJ Kilmurray</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong>.</li>
   <li>📝 I'm studying web-development full-time, with one of my primary resources being <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</li>
   <li>⌨️ Currently working on the design and development of my <a href="https://ajkilmurray.xyz" target="_blank">personal site</a>. <strong>[Under Construction]</strong></li>
-  <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a></li>
+  <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a>.</li>
 </ul>
 <h3 align="center">My GitHub Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
