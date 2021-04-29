@@ -8,7 +8,6 @@
 </ul>
 <h3 align="center">Here are some of my GitHub stats!</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
-<br>
 <h3 align="center">Technologies in my skill-set (so far)!<h3>
 
   <img src="https://img.icons8.com/color/50/4a90e2/html-5--v1.png"/>
