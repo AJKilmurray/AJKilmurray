@@ -1,5 +1,5 @@
 ![Header](https://imgur.com/BaW8tJS.jpg)
-<h1 align="center">Greetings! 👋</h1>
+<h1 align="center">Greetings 👋</h1>
 <ul>
   <li>💻 My name is <strong>AJ</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong>.</li>
   <li>📝 I'm studying full stack web-development full-time (self-taught), with one of my primary resources being <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</li>
