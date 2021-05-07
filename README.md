@@ -10,7 +10,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
 <h3 align="center">Technologies I've Learned to Use</h3>
 <p align="center">
-<img align="center" src="https://img.icons8.com/color/50/4a90e2/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/50/4a90e2/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/50/4a90e2/css3.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/sass.png"/>
