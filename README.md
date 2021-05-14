@@ -1,7 +1,7 @@
 ![Header](https://imgur.com/BaW8tJS.jpg)
 <h1 align="center">Greetings 👋</h1>
 <ul>
-  <li>💻 My name is <strong>AJ</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong>.</li>
+  <li>💻 My name is <strong>AJ</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong> (MERN Stack).</li>
   <li>📝 I'm studying full stack web-development full-time (self-taught). Using online resources & courses.
   <li>⌨️ Currently working on the design of my <a href="https://ajkilmurray.xyz" target="_blank">website</a> in my free-time.</li>
   <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a>.</li>
