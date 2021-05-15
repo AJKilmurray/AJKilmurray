@@ -6,7 +6,7 @@
   <li>⌨️ Currently working on the design of my <a href="https://ajkilmurray.xyz" target="_blank">website</a> in my free-time.</li>
   <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a>.</li>
 </ul>
-<h3 align="center">My GitHub Stats</h3>
+<h3 align="center">My GitHub Statistics</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
 <h3 align="center">Technologies I've Learned to Use</h3>
 <p align="center">
