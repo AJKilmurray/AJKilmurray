@@ -8,7 +8,7 @@
 </ul>
 <h3 align="center">My GitHub Statistics</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliodev&theme=dark&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajkilmurray&theme=dark&layout=compact"></p>
 <h3 align="center">Technologies I've Learned to Use</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
