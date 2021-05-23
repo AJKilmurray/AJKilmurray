@@ -5,7 +5,7 @@
   <li>📝 I'm studying full stack web-development full-time (self-taught), as well as UI & Graphic Design.
   <li>⌨️ Currently working on the design of my <a href="https://ajkilmurray.xyz" target="_blank">website</a> in my free-time, as well as some javascript projects.</li>
   <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a>.</li>
-  <li>➡️ Latest Project: <a href="https://ajkilmurray.github.io/todo-application/" target="_blank">Todo Website/Application</a></li>
+  <li>➡️ Latest Project: <a href="https://ajkilmurray.github.io/todo-application/" target="_blank">Todo Web Application</a></li>
 </ul>
 <h3 align="center">My GitHub Statistics</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
