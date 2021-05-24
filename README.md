@@ -7,7 +7,7 @@
   <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a>.</li>
   <li>➡️ Latest Project: <a href="https://ajkilmurray.github.io/todo-application/" target="_blank">Todo Web Application</a></li>
 </ul>
-<h3 align="center">My GitHub Statistics</h3>
+<h3 align="center">Statistics</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajkilmurray&theme=dark&layout=compact"></p>
 <h3 align="center">Technologies I've Learned to Use</h3>
