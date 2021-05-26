@@ -10,7 +10,7 @@
 <h3 align="center">Statistics</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajkilmurray&theme=dark&layout=compact"></p>
-<h3 align="center">Technologies I've Learned to Use</h3>
+<h3 align="center">Technologies I Use</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
 <img src="https://img.icons8.com/color/50/4a90e2/html-5--v1.png"/>
