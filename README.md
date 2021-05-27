@@ -18,6 +18,7 @@
 <img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/sass.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
 </p>
 
 
