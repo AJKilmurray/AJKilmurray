@@ -3,7 +3,7 @@
 <ul>
   <li>💻 My name is <strong>AJ</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong> (MERN Stack).</li>
   <li>📝 I'm studying full stack web-development full-time (self-taught), as well as UI & Graphic Design.</li>
-  <li>⌨️ Currently developing my skills in mobile-first design and vanilla JavaScript.</li>
+  <li>⌨️ Currently developing my skills in Node.js and React.</li>
   <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a>.</li>
   <li>➡️ Latest Project: <a href="https://ajkilmurray.github.io/Filmflix/" target="_blank">Filmflix</a></li>
 </ul>
