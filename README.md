@@ -5,7 +5,7 @@
   <li>📝 I'm studying full stack web-development full-time (self-taught), as well as UI & Graphic Design.</li>
   <li>⌨️ Currently developing my skills in mobile-first design and vanilla JavaScript.</li>
   <li>✉️ If you would like to contact me, please send an email to <a href="mailto:ajkilmurray@gmail.com" target="_blank">ajkilmurray@gmail.com</a>.</li>
-  <li>➡️ Latest Project: <a href="https://ajkilmurray.github.io/freelancer-catalog/" target="_blank">Freelancer Catalog</a></li>
+  <li>➡️ Latest Project: <a href="https://ajkilmurray.github.io/Filmflix/" target="_blank">Filmflix</a></li>
 </ul>
 <h3 align="center">GitHub Statistics</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkilmurray&theme=dark"></p>
