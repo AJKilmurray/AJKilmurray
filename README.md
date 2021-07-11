@@ -1,4 +1,4 @@
-![Header](https://imgur.com/BaW8tJS.jpg)
+![Header](https://imgur.com/ZLBsfoA.png)
 <h1 align="center">Greetings 👋</h1>
 <ul>
   <li>💻 My name is <strong>AJ</strong>, and I'm an aspiring <strong>Full-Stack Web Developer</strong> (MERN Stack).</li>
