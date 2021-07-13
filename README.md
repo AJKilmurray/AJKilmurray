@@ -16,7 +16,7 @@
 <img src="https://img.icons8.com/color/50/4a90e2/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/50/4a90e2/css3.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+<img src="https://img.icons8.com/color/48/4a90e2/react.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/sass.png"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
